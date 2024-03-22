@@ -3,9 +3,9 @@
 ### Dependencies
 Whois for python:
 
-'''
+```
 pip3 install python-whois
-'''
+```
 
 also be sure that you have the following standard libraries :
 - os
