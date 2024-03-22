@@ -8,9 +8,9 @@ pip3 install python-whois
 '''
 
 also be sure that you have the following standard libraries :
-os
-re
-requests
-tkinter
-datetime
+- os
+- re
+- requests
+- tkinter
+- datetime
  
