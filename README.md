@@ -35,4 +35,5 @@ cd typosquatterBuster
 ```
 python typosquatterBuster.py
 ```
+
 4. Enter a domain name in the provided field and click "Run Detection" to check for typosquatting domains. The script will display the variations being checked and generate an HTML report upon completion.
