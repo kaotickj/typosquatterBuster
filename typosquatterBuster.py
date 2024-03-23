@@ -7,7 +7,6 @@ Author: KaotickJ (https://github.com/kaotickj)
 """
 
 import os
-import re
 import requests
 import whois
 import tkinter as tk
