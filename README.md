@@ -13,4 +13,21 @@ also be sure that you have the following standard libraries :
 - requests
 - tkinter
 - datetime
- 
+
+### Usage
+
+1. Clone the repository:
+```
+git clone https://github.com/kaotickj/typosquatterBuster.git
+```
+
+2. Navigate to the project directory:
+```
+cd typosquatterBuster
+```
+
+3. Run the script:
+```
+python typosquatterBuster.py
+```
+4. Enter a domain name in the provided field and click "Run Detection" to check for typosquatting domains. The script will display the variations being checked and generate an HTML report upon completion.
