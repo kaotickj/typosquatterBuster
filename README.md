@@ -1,10 +1,16 @@
 # Typosquatter Buster
  This script detects typosquatting domains by generating typo variations of a given domain name, checking if they return a valid HTTP response, and running a WHOIS lookup to determine if the domain is registered, then generates an HTML report with the findings.
-### Dependencies
-Whois for python:
+# Typosquatter Buster
+
+Typosquatter Buster is a Python script that detects typosquatting domains by generating typo variations of a given domain name, checking if they return a valid HTTP response, and running a WHOIS lookup to determine if the domain is registered. It then generates an HTML report with the findings.
+
+## Dependencies
+
+- Python 3
+- `python-whois` library. Install it using pip:
 
 ```
-pip3 install python-whois
+pip install python-whois
 ```
 
 also be sure that you have the following standard libraries :
