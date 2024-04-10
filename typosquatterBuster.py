@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
 Title: Typosquatter Buster
+Author: Kaotick Jay (https://github.com/kaotickj)
 Description: This script detects typosquatting domains by generating typo variations of a given domain name, checking if they return a valid HTTP response, and running a WHOIS lookup to determine if the domain is registered. It generates an HTML report with the findings.
 Instructions: Run the script, enter a domain name, and click "Run Detection" to check for typosquatting domains. The script will display the variations being checked and generate an HTML report upon completion.
-Author: Kaotick Jay (https://github.com/kaotickj)
 """
 
 import os
